@@ -4,7 +4,7 @@ Input filed will be turned red in case of wrong guess and Green if the guess is 
 
 The purpose of this app was to demonstrate the capability and power of Vanilla_Javascript in terms of functionality and how to render elements to DOM dynamically.
 
-To run the project, Download or clone it on your machine and open index.html on your browser.
+https://shoaibjalal.github.io/NumberGuessingGame/.
 
 <img src="img/screenshot.PNG" />
 <img src="img/screenshot1.PNG" />
